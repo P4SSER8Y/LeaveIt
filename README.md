@@ -3,7 +3,7 @@ LeaveIt Hugo Theme
 
 LeaveIt is a clean, elegant, simple but not simpler blog theme for Hugo. 
 
-![hugo-theme-LeaveIt](https://raw.githubusercontent.com/liuzc/LeaveIt/master/images/screenshot.png)
+![hugo-theme-LeaveIt](images/screenshot.png)
 
 # Demo
 To see this theme in action,  Here is a live [demo site](https://liuzhichao.com) which is rendered with this theme and some content for documentation and blog posts.
@@ -25,7 +25,7 @@ Clone this repository to your hugo theme directory.
 
 ```bash
 cd themes
-git clone https://github.com/liuzc/LeaveIt.git
+git clone https://github.com/P4SSER8Y/LeaveIt.git
 ```
 
 Next, open config.toml in the base of the Hugo site and ensure the theme option is set to mainroad:
@@ -86,7 +86,7 @@ This theme write style with scss, So you must download and install the “extend
 
 #### How to toggle dark-light mode
 * You can click the love heart ❤️ in front of your blog title to toggle dark-light mode. I don't think it's a good interaction design. But I don't have a good idea.
-* If you want to make your own theme toggle-able element, you can create an element with a class `.theme-switch`. See [here](https://github.com/liuzc/LeaveIt/blob/4e8672ebbc636ba1d0e96573d25739a5295d879b/assets/js/main.js#L32)
+* If you want to make your own theme toggle-able element, you can create an element with a class `.theme-switch`. See [here](assets/js/main.js#L32)
 
 # Home Post model
 If you want to show posts on index instead of a personal profile, just open config.toml in the base of the Hugo site, add the following line to config.toml
@@ -106,10 +106,10 @@ categories: ["Releases"]
 featured_image: https://raw.githubusercontent.com/gohugoio/hugoDocs/master/content/en/news/0.48-relnotes/featured-hugo-48-poster.png
 ---
 ```
-![hugo-theme-LeaveIt-Host_post](https://raw.githubusercontent.com/liuzc/LeaveIt/master/images/home_post_mode.jpg)
+![hugo-theme-LeaveIt-Host_post](images/home_post_mode.jpg)
 
 # Questions, ideas, bugs, pull requests?
-All feedback is welcome! Head over to the [issue tracker](https://github.com/liuzc/LeaveIt/issues).
+All feedback is welcome! Head over to the [issue tracker](https://github.com/P4SSR8Y/LeaveIt/issues).
 
 # License
 LeaveIt is licensed under the MIT license. Check the LICENSE file for details.
@@ -121,6 +121,8 @@ The following resources are included in the theme:
 
 # Author
 [LiuZhichao](https://github.com/liuzc)
+
+[P4SSER8Y](https://github.com/P4SSER8Y)
 
 # See Also
 
