@@ -1,5 +1,5 @@
-LeaveIt Hugo Theme
-========================
+LeaveIt Hugo Theme (Hacked Dark Branch)
+=======================================
 
 LeaveIt is a clean, elegant, simple but not simpler blog theme for Hugo. 
 
